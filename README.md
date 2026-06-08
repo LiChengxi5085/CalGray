@@ -111,9 +111,10 @@ x,y,gray
 
 Files are UTF-8 encoded, one pixel per line.
 
-## License
+## License and citation
 
-For personal learning and research use.
+For personal learning and research use. It should be cited as “Li, C.​ CalGray, version 1.0; GitHub: https://github.com/LiChengxi5085/CalGray
+(accessed 2026-06-09).”.
 
 # CalGary - 图片灰度数据转换器
 
@@ -228,6 +229,7 @@ x,y,gray
 
 文件使用 UTF-8 编码，每行一个像素点。
 
-## 许可协议
+## 许可协议和引用规范
 
-个人学习与研究用途。
+个人学习与研究用途，按照出版社要求引用仓库地址“Li, C.​ CalGray, version 1.0; GitHub: https://github.com/LiChengxi5085/CalGray
+(accessed 2026-06-09).”即可。
